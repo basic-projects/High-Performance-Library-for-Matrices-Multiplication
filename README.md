@@ -45,7 +45,7 @@ is description support libraries for the configuration of a computing platform, 
 extensions supported by the processor, the size of the cache and other settings.
 
 
-Description of the basic library files of the configuration of a computing platform AVX_OS.
+          Description of the basic library files of the configuration of a computing platform AVX_OS.
 
 Translated main module:
 
@@ -63,7 +63,7 @@ DetectCache.inc
 
 DetectVXLib.inc
 
-Description of the main computational libraries files AVX_256_Specific.
+          Description of the main computational libraries files AVX_256_Specific.
 
 Translated main module:
 
