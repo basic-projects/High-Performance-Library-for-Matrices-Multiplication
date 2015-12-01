@@ -154,11 +154,16 @@ computational algorithms that allow to solve the problems supercomputer level, u
 Published source computational libraries are one example of such optimization.
 Some algorithms for hardware accelerated computing is to be included in this project.
 
-*	*	*
+                                                       *	*	*
 
-Contacts: 
+Contacts:
+
 Head of development Alexander Parfus
+
 		E-mail:  AVP@basic-projects.com
+		
 Chief specialist hardware Ilya Manusov
+
 		E-mail:  im1969@yandex.ru
+		
 
