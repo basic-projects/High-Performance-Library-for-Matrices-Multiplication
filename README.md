@@ -163,6 +163,6 @@ Head of development Alexander Parfus
 		E-mail:  AVP@basic-projects.com
 		
 Chief specialist hardware Ilya Manusov
-		E-mail:  ivm@basic-projects.com
+		E-mail:  IVM@basic-projects.com
 		
 
