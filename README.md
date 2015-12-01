@@ -44,45 +44,84 @@ In the document
 is description support libraries for the configuration of a computing platform, designed for the detection of functional
 extensions supported by the processor, the size of the cache and other settings.
 
+
 Description of the basic library files of the configuration of a computing platform AVX_OS.
+
 Translated main module:
+
 AVX_OS.asm
+
 Modules for functions debug:
+
 Debug_DLL_DetectCache.asm
+
 Debug_DLL_DetectVXLib.asm
+
 Connected modules:
+
 DetectCache.inc
+
 DetectVXLib.inc
+
 Description of the main computational libraries files AVX_256_Specific.
+
 Translated main module:
+
 Specific_AVX1_256_1.asm
+
 Modules for functions debug:
+
 Debug_DLL_InitLibrary.asm
+
 Debug_DLL_PackA.asm
+
 Debug_DLL_PackASmall.asm
+
 Debug_DLL_PackB.asm
+
 Debug_DLL_PackBSmall.asm
+
 Debug_DLL_UnPackA.asm
+
 Debug_DLL_UnPackASmall.asm
+
 Debug_DLL_UnPackB.asm
+
 Debug_DLL_UnPackBSmall.asm
+
 Debug_MultiplyMatrixBig.asm
+
 Debug_MultiplyMatrixSmall.asm
+
 Connected modules:
+
 <DIR> MMB
+
 <DIR> MMS
+
 Debug_Context.inc
+
 InitLibrary.inc
+
 PackASmall.inc
+
 PackA_TRANSP.inc
+
 PackB.inc
+
 PackBSmall.inc
+
 UnPackA.inc
+
 UnPackASmall.inc
+
 UnPackB.inc
+
 UnPackBSmall.inc
 
+
 Briefly «about us».
+
 The core of the team are natives of the institutes of the Academy of Sciences of the former Soviet Union, highly qualified
 specialists, doctors and candidates of Sciences, whose area of activity – the problem solving simulation «large systems».
 They are representatives of the scientific school of Acad. Georgiy Evgenyevich Pukhov, as well as other specialists.
