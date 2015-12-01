@@ -120,7 +120,8 @@ UnPackB.inc
 UnPackBSmall.inc
 
 
-Briefly «about us».
+
+                                               Briefly «about us».
 
 The core of the team are natives of the institutes of the Academy of Sciences of the former Soviet Union, highly qualified
 specialists, doctors and candidates of Sciences, whose area of activity – the problem solving simulation «large systems».
