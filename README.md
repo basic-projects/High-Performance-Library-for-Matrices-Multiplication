@@ -118,11 +118,9 @@ Some algorithms for hardware accelerated computing is to be included in this pro
      Contacts: 
 
 Head of development Alexander Parfus
-
 		E-mail:  AVP@basic-projects.com
 
 Chief specialist (hardware) Ilya Manusov
-
 		E-mail:  IVM@basic-projects.com
 		
 
