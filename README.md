@@ -102,7 +102,7 @@ As an example, let’s consider a gas transport systems (GTS) modeling tasks dec
 
 ●	the solution of the optimal control of the operating modes of the GTS.
 
-Actual non-stationary modes of GTS are considered in both cases. GTS may be considered at any level of complexity, up to continental GTS level.
+Actual transient behaviour operating modes of GTS are considered in both cases. GTS may be considered at any level of complexity, up to continental GTS level.
 We need to be prepared for the following dimensions of the system with such tasks: the degrees of freedom (number of variables) may amount to «millions and tens of millions of unknowns»; technological restrictions of equipmenе may amount to «hundreds of thousands and millions».
 The «Curse of dimensionality» makes it impossible to solve such problems of the known mathematical methods.
 The term «Curse of dimension» (also known as «Curse of dimensionality difficulties» or «Di-culties»), reflects a rapid growth in the number of required calculations that arise with the increase of object modeling. The considered problems belong to the exponential task complexity.
